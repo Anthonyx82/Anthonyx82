@@ -20,6 +20,3 @@ Soy Antonio Martín Sosa desarrollador de software y profesor particular. Llevo 
 
 ### 🔝 Repositorios mas contribuidos
 ![](https://github-contributor-stats.vercel.app/api?username=Anthonyx82&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
-## 💰 Invitame un cafe
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Anthonyx82) 
