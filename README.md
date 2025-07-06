@@ -1,18 +1,20 @@
 ## 💫 Sobre Mí  
-Soy **Antonio Martín Sosa**, un apasionado de la tecnología con experiencia en **DevOps, desarrollo de software y ciberseguridad**. Desde los 16 años he estado formándome en este campo, completando estudios en **SMR, DAM y actualmente finalizando DAW**, con experiencia en proyectos reales gracias a mis prácticas duales en **Indra**.  
+Soy Antonio Martín Sosa, un apasionado de la tecnología con experiencia en DevOps, desarrollo de software y ciberseguridad. Desde los 16 años me he formado en este campo, completando estudios en SMR, DAM y actualmente finalizando DAW.
 
-Además, combino mi faceta técnica con la enseñanza, ayudando a alumnos de **ESO, Bachillerato, FP y opositores** a comprender la programación y la informática. Siempre estoy explorando nuevas tecnologías, especialmente en **desarrollo web y multiplataforma, inteligencia artificial y automatización**.  
+He desarrollado mi carrera en entornos reales, empezando con prácticas duales en Indra (Minsait), donde ahora formo parte del equipo como DevOps Engineer, colaborando en proyectos de alto impacto tecnológico. También soy COO/CTO en WorkoutNote, una startup en desarrollo, y compagino mi faceta profesional con la docencia, impartiendo clases particulares y extraescolares de informática y programación.
+
+Me especializo en tecnologías como Python, JavaScript, Docker, bases de datos SQL/NoSQL y frameworks como React, Angular, Django y Spring Boot, además de tener experiencia en automatización, OSINT, análisis forense y gestión de infraestructuras cloud.
 
 🚀 **Siempre aprendiendo, siempre mejorando.**  
 
 ## 🎯 Objetivos Profesionales  
-Mi enfoque profesional está en tres pilares clave:  
+Mi enfoque profesional gira en torno a tres pilares clave:
 
-🔹 **Desarrollo de Software:** Mejorar mis habilidades en **backend y frontend**, trabajando con tecnologías modernas y escalables.  
-🔹 **Automatización & DevOps:** Profundizar en **infraestructura como código (IaC), CI/CD y gestión de entornos en la nube**.  
-🔹 **Ciberseguridad:** Ampliar mis conocimientos en **hacking ético, OSINT y análisis forense**, aplicándolos en proyectos tecnológicos.  
+🔹 Desarrollo de Software: Potenciar mis habilidades tanto en frontend como backend, con foco en arquitecturas modernas.
+🔹 DevOps & Automatización: Ampliar mi experiencia en CI/CD, infraestructura como código (IaC), contenedores y entornos cloud.
+🔹 Ciberseguridad: Seguir formándome en hacking ético, OSINT y respuesta ante incidentes, integrando estas habilidades en soluciones reales.
 
-Me encanta enfrentar **nuevos desafíos** y colaborar en proyectos innovadores. ¡Estoy abierto a oportunidades y conexiones! 🚀  
+Abierto a retos, colaboraciones y nuevas oportunidades en el mundo tech. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anthonyx82_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anthonyx82) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Anthonyx82) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Anthonyx82_ttv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@anthonyx82_ttv) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anthonyx82_ttv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-martin-sosa-05a94a2a1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20246614) 
